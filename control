@@ -1,7 +1,7 @@
 Package: com.sttt.neteasemail
 Name: 网易邮箱大师 NoAds
 Author: sttt
-Description: NetEase Mail Master No Ads was tested on version 7.18.3
+Description: NetEase Mail Master No Ads
 Depends: mobilesubstrate
 Maintainer: sttt
 Architecture: iphoneos-arm
